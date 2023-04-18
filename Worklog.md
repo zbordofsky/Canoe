@@ -7,3 +7,7 @@
 - Installed requests pacakge locally (using pip) and then was able to download a pdf file from url (in bytes)
 - Did some searching and found a pdf reader for python to install 
 - Tried to directly convert response object to Pdf reader but ran into issues and had to pause
+
+04/18/2023
+- Saved PDF to OS and then was able to pass the PDF into the reader 
+- Reader isn't able to cleanly extract text yet. Need to play around with that (or possibly consider other ways of extracting text)
