@@ -11,3 +11,8 @@
 04/18/2023
 - Saved PDF to OS and then was able to pass the PDF into the reader 
 - Reader isn't able to cleanly extract text yet. Need to play around with that (or possibly consider other ways of extracting text)
+
+04/28/2023
+- Switched to using PDF plumber and was able to extract text.
+- Started moving things to own functions to not have a monolith
+- Time to start actually doing something with the text :D 
